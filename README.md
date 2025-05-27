@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a trained engineer with experience in STEM research (bioengineering, medical nanotechnology, and cognitive neurosciences) and science journalism. After a masters in Sanskrit and studying yoga traditionally (vivekananda Kendra, Bihar School of Yoga, and Tirumalai Krishnamacharya traditions), I am now in the process of completing a PhD in Sanskrit. I teach Sanskrit and Indian Philosophy. My major areas of interest are in comparative philosophy, Indian Knowledge Systems, and linguistics. 
 
 <!--
 **bala-abhinavagupta/bala-abhinavagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
